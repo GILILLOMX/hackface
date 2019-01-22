@@ -18,7 +18,7 @@ hackface es una recopilación de información precisa de la cuenta de Facebook, 
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/hackface
+$ git clone https://github.com/GILILLOMX/hackface
 $ cd hackface
 ```
 
